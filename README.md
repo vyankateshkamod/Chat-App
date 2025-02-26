@@ -101,9 +101,14 @@ https://github.com/user-attachments/assets/553d1b49-9e82-4244-a4d5-be02694a2d05
 ```shell
 git clone https://github.com/vyankateshkamod/Chat-App.git
 ```
-2. Install the dependencies in client folder
+2. Install the dependencies in frontend folder
 ```shell
 cd frontend
+npm i
+```
+3.Install the dependencies in backend folder
+```shell
+cd backend
 npm i
 ```
 
