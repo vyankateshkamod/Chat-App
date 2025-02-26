@@ -14,7 +14,7 @@
 <br>
 <h2 id="Video">📽️ Video</h2>
 
-
+https://github.com/user-attachments/assets/553d1b49-9e82-4244-a4d5-be02694a2d05
 
 <br>
 
@@ -82,4 +82,76 @@
 
 ## 🚀Profile Page
 ![6](https://github.com/vyankateshkamod/Project-Assests/blob/main/Chat-App/Screenshots/Screenshot%202025-02-24%20233120.png?raw=true)
+
+
+
+
+<h2 id="started">🚀 Getting started</h2>
+
+ 
+<h3>Prerequisites</h3>
+
+- [NodeJS](https://nodejs.org/en/download/package-manager)
+- [Git](https://www.git-scm.com/download/win)
+ 
+
+1. First of all you need to clone the repository
+```shell
+git clone https://github.com/vyankateshkamod/Chat-App.git
+```
+2. Install the dependencies in client folder
+```shell
+cd frontend
+npm i
+```
+
+3. ### Setup .env file in backend folder
+
+```js
+MONGODB_URI=...
+PORT=5001
+JWT_SECRET=...
+
+CLOUDINARY_CLOUD_NAME=...
+CLOUDINARY_API_KEY=...
+CLOUDINARY_API_SECRET=...
+
+NODE_ENV=development
+```
+
+4. Execute the frontend
+```shell
+cd frontend
+npm run dev
+```
+5. Execute the backend
+```shell
+cd backend
+npm run dev
+```
+
+<h2 id="contribute">📫 Contribute</h2>
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
+
+
+
+
+
+
+
+
 
